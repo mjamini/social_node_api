@@ -1,6 +1,9 @@
 # social_node_api
 node server api for social media
 
+# Prerequisit
+NodeJS and mongoBD require to run this application successfully.
+
 # $npm install 
 This command will download all node modules used in this api.
 # $node run dev 
